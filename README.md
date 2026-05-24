@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm Paula! 🫧
 
-<!--
-**paubrr/paubrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇨🇷 Costa Rican living in Seoul 🇰🇷 \
+🎓 Biomedical Engineering undergraduate student\
+🤖 Interested in AI, medical imaging & biomedical signal processing  
+🔬 Currently trying to build projects at the intersection of data and healthcare  
+🌱 Always learning — and uploading the evidence here >:)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Languages
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,matlab,github,git,cpp&theme=dark)](https://skillicons.dev)
+
+---
+
+*Still figuring it out, but documenting the process anyway :))*
